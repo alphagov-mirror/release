@@ -22,6 +22,7 @@ gem "plek", "~> 4"
 group :test, :development do
   gem "better_errors", "~> 2"
   gem "binding_of_caller", "~> 0.8"
+  gem "byebug"
   gem "capybara", "~> 3"
   gem "database_cleaner", "~> 1"
   gem "factory_bot_rails"
